@@ -12,6 +12,7 @@
     "axios": "^1.4.0",
     "core-js": "^3.8.3",
     "emojibase-data": "^7.0.1",
+    "remixicon": "^3.3.0",
     "vue": "^3.2.13",
     "vue-router": "^4.2.1"
   },
